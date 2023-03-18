@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ponchik-Lukich</h1>
 
-<!--
-**Ponchik-Lukich/Ponchik-Lukich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">National Research Nuclear University MEPhI Student</h3>
+<p align="center">
+ <a href="https://tlgg.ru/artemii_lukich"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ponchik-Lukich&show_icons=true&theme=dark" />
+   <br>
+   <img src="https://metrics.lecoq.io/Ponchik-Lukich" />
+  </p>
