@@ -8,6 +8,4 @@
 <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ponchik-Lukich&show_icons=true&theme=dark" />
-   <br>
-   <img src="https://metrics.lecoq.io/Ponchik-Lukich" />
   </p>
