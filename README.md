@@ -2,7 +2,7 @@
 
 <h3 align="center">National Research Nuclear University MEPhI Student</h3>
 <p align="center">
- <a href="https://tlgg.ru/artemii_lukich"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href="https://tlgg.ru/ArtLukich"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
 </p>
 
 <summary><h2><b>⭐GitHub stats</b></h2></summary>
