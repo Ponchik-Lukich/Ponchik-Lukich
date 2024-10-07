@@ -1,6 +1,6 @@
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Artemii Lukichev</h1>
 
-<h3 align="center">National Research Nuclear University MEPhI Student</h3>
+<h3 align="center">CU Student</h3>
 <p align="center">
  <a href="https://tlgg.ru/ArtLukich"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
 </p>
